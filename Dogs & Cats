@@ -1,0 +1,24 @@
+<!DOCTYP\E html>
+   <html>
+     <head>
+       <meta charset="utf-8">
+       <style>
+   td {color: #F24E0C;};
+  </style>
+  
+       <title>I Scream For Ice Cream!</title>
+       <link href="icecream.css" rel="stylesheet" type="text/css">
+     </head>
+     <body>
+       <h1>Most Popular Ice Cream Flavors</h1>
+       <table>
+        <tr><th>Rank</th><th>Flavor</th></tr>
+        <tr><td>1</td><td>Half Baked</td></tr>
+        <tr><td>2</td><td>Chocolatey</td></tr>
+        <tr><td>3</td><td>Cookies And Cream</td></tr>
+        <tr><td>4</td><td>Cookies and Cream</td></tr>
+        <tr><td>5</td><td>Mint Chocolate Chip</td></tr>
+        <img src="images/cookies.jpg" />
+      </table>
+    </body>
+  </html>
